@@ -1,4 +1,3 @@
-### Hello World! 👋
 
 <!-- Início do README.md -->
 
