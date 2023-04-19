@@ -8,8 +8,8 @@
 </p>
 
 # 👋 Olá, eu sou Lucas Hyan Monteiro Dos Santos!
-<div>
-  <p align="center">
+<div align="center">
+  <p>
 
 <a href = "mailto:lucas.hyan@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucashyan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
