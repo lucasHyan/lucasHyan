@@ -18,7 +18,8 @@
 
 Sou estudante de TI. No momento cursando Análise e Desenvolvimento de Sistemas pelo Instituto Infnet. Aqui está um pouco sobre mim:
 
-- 🐍 Atualmente estou estudando PHP e estou animado para aprender mais sobre suas aplicações e possibilidades.
+- ©️ Atualmente estou estudando C# e estou animado para aprender mais sobre suas aplicações e possibilidades.
+- ☕ Encarando o desafio de aprender Java.
 - 🌟 Estou sempre buscando me atualizar e melhorar minhas habilidades como desenvolvedor.
 
   
