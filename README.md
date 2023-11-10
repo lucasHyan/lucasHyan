@@ -9,20 +9,20 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-# 👋 Olá, eu sou Lucas Hyan Monteiro Dos Santos!
+# 👋 Hellow World, I am Lucas Hyan!
 <div align="center">
   <p>
-
 <a href = "mailto:lucas.hyan@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucashyan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   </p>
 
-Sou estudante de TI. No momento cursando Análise e Desenvolvimento de Sistemas pelo Instituto Infnet. Aqui está um pouco sobre mim:
+ ## I'm a software development student. Here's more about me:
 
-- ©️ Atualmente estou estudando C# e estou animado para aprender mais sobre suas aplicações e possibilidades.
-- ☕ Encarando o desafio de aprender Java.
-- 🌟 Estou sempre buscando me atualizar e melhorar minhas habilidades como desenvolvedor.
+- 🔭 I’m currently studying to be a Full-Stack Developer,currently focused Java and C#
+- 🌱 I’m currently learning Artificial Intelligence and high-performance C programming
+- 🌟 I'm always looking to improve my skills as a developer.
+- 📫 You can contact me at my email: lucas.hyan@hotmail.com
 
   
  <div>
