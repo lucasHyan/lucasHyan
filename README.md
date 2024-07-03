@@ -20,7 +20,6 @@
  ## I'm a software development student. Here's more about me:
 
 - 🔭 I’m currently studying to be a Full-Stack Developer,currently focused Java and C#
-- 🌱 I’m currently learning Artificial Intelligence and high-performance C programming
 - 🌟 I'm always looking to improve my skills as a developer.
 - 📫 You can contact me at my email: lucas.hyan@hotmail.com
 
