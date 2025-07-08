@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently studying to be a Full-Stack Developer,currently focused Java and C#
 - 🌟 I'm always looking to improve my skills as a developer.
-- 📫 You can contact me at my email: lucas.hyan@hotmail.com
+- 📫 You can contact me at my email: lucas.hyan@outlook.com
 
   
  <div>
