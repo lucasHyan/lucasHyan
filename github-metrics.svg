@@ -235,7 +235,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="137.53236314467733" height="8" fill="#4F5D95"/>
                     <rect mask="url(#languages-bar)" x="137.53236314467733" y="0" width="97.69350904640997" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="235.2258721910873" y="0" width="84.90070674860934" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="235.2258721910873" y="0" width="84.90070674860934" height="8" fill="#7355dd"/>
                     <rect mask="url(#languages-bar)" x="320.1265789396967" y="0" width="52.49819182859229" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="372.62477076828895" y="0" width="32.0180858787713" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="404.6428566470602" y="0" width="30.58573647758492" height="8" fill="#f1e05a"/>
@@ -257,7 +257,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#7355dd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C#
                     </div>
@@ -318,7 +318,7 @@
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                            <path fill="#7355dd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                         </svg>
                                         C#
                                     </div>
@@ -2475,7 +2475,7 @@
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                            <path fill="#7355dd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                         </svg>
                                         C#
                                     </div>
@@ -2580,7 +2580,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2026, 13:14:20 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2026, 15:54:00 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
